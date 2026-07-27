@@ -1,16 +1,22 @@
 🏠 House Price Prediction
+
+
 A Machine Learning web application that predicts house prices based on various property features such as area, number of bedrooms, bathrooms, furnishing status, parking availability, and other amenities.
 
 This project is developed using Python, Scikit-Learn, and Streamlit. A Linear Regression model was trained and deployed to estimate house prices through an interactive web interface.
 
 📌 Features
+
+
 Predicts house prices in real time
 Interactive Streamlit web application
 Built using Linear Regression
 Supports 13 input features
 One-Hot Encoding for categorical variables
 Responsive and user-friendly interface
+
 🚀 Technologies Used
+
 Python
 NumPy
 Pandas
